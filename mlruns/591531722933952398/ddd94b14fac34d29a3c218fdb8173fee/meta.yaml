@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Sandesh/Desktop/sandesh/MLFlowStarter/mlruns/591531722933952398/ddd94b14fac34d29a3c218fdb8173fee/artifacts
+end_time: 1729140527222
+entry_point_name: ''
+experiment_id: '591531722933952398'
+lifecycle_stage: active
+run_id: ddd94b14fac34d29a3c218fdb8173fee
+run_name: smiling-calf-492
+run_uuid: ddd94b14fac34d29a3c218fdb8173fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729140527186
+status: 3
+tags: []
+user_id: Sandesh

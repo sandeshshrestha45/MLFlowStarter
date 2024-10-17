@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/187298246004646501/6864646b35a24b3a802709f877fb31ad/artifacts
+end_time: 1729143356045
+entry_point_name: ''
+experiment_id: '187298246004646501'
+lifecycle_stage: active
+run_id: 6864646b35a24b3a802709f877fb31ad
+run_name: placid-steed-69
+run_uuid: 6864646b35a24b3a802709f877fb31ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729143352351
+status: 3
+tags: []
+user_id: Sandesh

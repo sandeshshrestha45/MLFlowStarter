@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Sandesh/Desktop/sandesh/MLFlowStarter/mlruns/591531722933952398/d4e1f45ab1bd49c6837d6fdc77eb7fe2/artifacts
+end_time: 1729140527167
+entry_point_name: ''
+experiment_id: '591531722933952398'
+lifecycle_stage: active
+run_id: d4e1f45ab1bd49c6837d6fdc77eb7fe2
+run_name: luminous-lynx-680
+run_uuid: d4e1f45ab1bd49c6837d6fdc77eb7fe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729140527131
+status: 3
+tags: []
+user_id: Sandesh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/187298246004646501/278c0420a8094ce7bcc1123921116e1f/artifacts
+end_time: 1729148459369
+entry_point_name: ''
+experiment_id: '187298246004646501'
+lifecycle_stage: active
+run_id: 278c0420a8094ce7bcc1123921116e1f
+run_name: industrious-tern-226
+run_uuid: 278c0420a8094ce7bcc1123921116e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729148456185
+status: 3
+tags: []
+user_id: Sandesh
