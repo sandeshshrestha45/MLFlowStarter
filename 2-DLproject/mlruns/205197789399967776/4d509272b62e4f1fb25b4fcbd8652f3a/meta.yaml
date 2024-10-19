@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Sandesh/Desktop/sandesh/MLFlowStarter/2-DLproject/mlruns/205197789399967776/4d509272b62e4f1fb25b4fcbd8652f3a/artifacts
+end_time: 1729306076630
+entry_point_name: ''
+experiment_id: '205197789399967776'
+lifecycle_stage: active
+run_id: 4d509272b62e4f1fb25b4fcbd8652f3a
+run_name: youthful-shark-30
+run_uuid: 4d509272b62e4f1fb25b4fcbd8652f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729306066028
+status: 3
+tags: []
+user_id: Sandesh

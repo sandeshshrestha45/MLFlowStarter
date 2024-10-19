@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Sandesh/Desktop/sandesh/MLFlowStarter/2-DLproject/mlruns/205197789399967776/3e2c32ffc07345d3af19ebee10fabff8/artifacts
+end_time: 1729306096548
+entry_point_name: ''
+experiment_id: '205197789399967776'
+lifecycle_stage: active
+run_id: 3e2c32ffc07345d3af19ebee10fabff8
+run_name: upbeat-carp-433
+run_uuid: 3e2c32ffc07345d3af19ebee10fabff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729306065914
+status: 3
+tags: []
+user_id: Sandesh

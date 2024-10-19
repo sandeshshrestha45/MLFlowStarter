@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Sandesh/Desktop/sandesh/MLFlowStarter/2-DLproject/mlruns/205197789399967776/a3b01a9345164e3497320c27872e4669/artifacts
+end_time: 1729305960457
+entry_point_name: ''
+experiment_id: '205197789399967776'
+lifecycle_stage: active
+run_id: a3b01a9345164e3497320c27872e4669
+run_name: gifted-crane-763
+run_uuid: a3b01a9345164e3497320c27872e4669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729305960419
+status: 4
+tags: []
+user_id: Sandesh

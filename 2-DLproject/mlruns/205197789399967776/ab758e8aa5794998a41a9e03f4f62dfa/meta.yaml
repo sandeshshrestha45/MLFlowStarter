@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Sandesh/Desktop/sandesh/MLFlowStarter/2-DLproject/mlruns/205197789399967776/ab758e8aa5794998a41a9e03f4f62dfa/artifacts
+end_time: 1729306083252
+entry_point_name: ''
+experiment_id: '205197789399967776'
+lifecycle_stage: active
+run_id: ab758e8aa5794998a41a9e03f4f62dfa
+run_name: smiling-kite-270
+run_uuid: ab758e8aa5794998a41a9e03f4f62dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729306076647
+status: 3
+tags: []
+user_id: Sandesh
